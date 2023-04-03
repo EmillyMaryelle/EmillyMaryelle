@@ -1,5 +1,6 @@
 ## Olá pessoal 👋
-<img src="https://giphy.com/embed/wkW0maGDN1eSc" width="369" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/revy-wkW0maGDN1eSc">via GIPHY</a></p>
+
+![giphy](https://user-images.githubusercontent.com/58406413/229395911-ef32b98f-0315-456e-a965-4721e43094eb.gif)
 
 ## Skils and Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
