@@ -1,8 +1,8 @@
-## Olá pessoal 👋
+## Oii, me chamo Emilly Maryelle, sou estudante de Engenharia de Software na UFC, bem vindo ao meu GitHub! <3
 
 ![giphy](https://user-images.githubusercontent.com/58406413/229395911-ef32b98f-0315-456e-a965-4721e43094eb.gif)
 
-## Skils and Tools
+## Ferramentas que eu manjo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40"/>
